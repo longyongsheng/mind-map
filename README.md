@@ -22,7 +22,7 @@ Supported formats:
 - Txtmap (whitespace indented plaintext)
 - Pandoc (limited prototype)
 
-Suggestions for new featues are welcome, feel free to open an [issue](https://github.com/dundalek/markmap/issues).
+Suggestions for new featues are welcome, feel free to open an [issue](https://github.com/longyongsheng/mind-map/issues).
 
 ## How to use
 
@@ -41,7 +41,7 @@ Visualizing a markdown text consists of two steps:
 To run the examples first clone the project and install dependencies:
 
 ```sh
-git clone https://github.com/dundalek/markmap.git
+git clone https://github.com/longyongsheng/mind-map.git
 cd markmap
 npm install
 ```
@@ -63,18 +63,18 @@ node example.markdown.js
 
 ## Changelog
 
-### [0.6.1](https://github.com/dundalek/markmap/compare/v0.6.0...v0.6.1) (2019-10-23)
+### [0.6.1](https://github.com/longyongsheng/mind-map/compare/v0.6.0...v0.6.1) (2019-10-23)
 
 - Bump dependencies to fix vulnerabilities
 
-### [0.6.0](https://github.com/dundalek/markmap/compare/v0.5.0...v0.6.0) (2018-11-08)
+### [0.6.0](https://github.com/longyongsheng/mind-map/compare/v0.5.0...v0.6.0) (2018-11-08)
 
 - **Breaking change**: Moved sources from src to lib. That way there will be no breakage if we happen to introduce babel in the future.
 - Added tree diffing heuristic
 - Added more code examples
 - Fixed link parsing issues
 
-### [0.5.0](https://github.com/dundalek/markmap/compare/v0.4.2...v0.5.0) (2018-09-10)
+### [0.5.0](https://github.com/longyongsheng/mind-map/compare/v0.4.2...v0.5.0) (2018-09-10)
 
 - **Breaking change**: Changed structure of source files
 - Added support for parsing inter file links for markdown
