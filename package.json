@@ -17,7 +17,7 @@
     "ideamap",
     "visualization"
   ],
-  "author": "Jakub Dundalek",
+  "author": "longyongsheng",
   "license": "MIT",
   "dependencies": {
     "d3": "3.5.6",
