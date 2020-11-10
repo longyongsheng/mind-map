@@ -1,5 +1,5 @@
 {
-  "name": "markmap-l",
+  "name": "@long/mindmap",
   "version": "0.6.1",
   "description": "Visualize markdown documents as mindmaps",
   "scripts": {
